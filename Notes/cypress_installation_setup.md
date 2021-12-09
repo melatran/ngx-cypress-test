@@ -28,4 +28,4 @@
 - https://docs.cypress.io/guides/references/configuration#cypress-json
 - change viewportHeight and viewportWidth to fit with today's devices were most are HD
 - this warning message is expected since it's base URL is a local host and local host is not running
-<img width="500" alt="Screen Shot 2021-12-09 at 10 43 20 AM" src="https://user-images.githubusercontent.com/59414750/145448835-9f69872b-ff6f-425b-9fbf-c1f9b84a2fd8.png">
+<img width="1000" alt="Screen Shot 2021-12-09 at 10 43 20 AM" src="https://user-images.githubusercontent.com/59414750/145448835-9f69872b-ff6f-425b-9fbf-c1f9b84a2fd8.png">
