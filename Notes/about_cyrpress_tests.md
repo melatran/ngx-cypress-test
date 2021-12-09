@@ -32,3 +32,7 @@ describe('Our first suite', () => {
 })
 
 ```
+
+## Types of Locators
+- add to the top of test file so we can use cypress methods "/// <reference types = "cypress" />"
+
